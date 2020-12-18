@@ -1,6 +1,6 @@
 # IPL Data Dashboard
 
-### IPL is a popular cricket series played annually in India from 2007. So, we have generated a lot of data since then which helps in prediction of the future performances of teams and players. I have analysed the data which covers the various objectives-
+### IPL is a popular cricket series played annually in India since 2007. So, we have generated a lot of data since then which helps in prediction of the future performances of teams and players. I have analysed the data which covers the various objectives-
 
 - To analyse the player’s batting and bowling skills.
 
